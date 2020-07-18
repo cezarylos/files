@@ -1,0 +1,1 @@
+-freq 144 -refresh 144 -tickrate 128 -novid -console -language english +mat_disable_fancy_blending 1
